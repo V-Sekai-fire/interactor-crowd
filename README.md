@@ -17,4 +17,4 @@ The plane is `build/weft-crowd-plane`; the comment at the top of `src/plane.cpp`
 
 ## Licence
 
-No licence file sits at the root. The steering sources carry Apache-2.0 SPDX headers, and the vendored musculoskeletal model in `thirdparty/` carries its own Apache-2.0 licence.
+Apache-2.0. See [LICENSE](LICENSE).
